@@ -1,7 +1,7 @@
 # Crop rows Detection Inference Pytorch
 Example scripts for the detection of rowss using the [RASC models](https://github.com/) in Pytorch.
 
-![!Ultra fast lane detection](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-/blob/main/doc/img/detected%20lanes.jpg)
+![!Ultra fast lane detection](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-/blob/main/doc/img/.jpg)
 image-Source: RASC/doc
 
 # Requirements
