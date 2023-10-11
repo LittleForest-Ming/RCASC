@@ -19,7 +19,7 @@ pip install -r requirements
 Download the pretrained model from the [Baidu Netdisk](https://pan.baidu.com/s/1PaIxvx_twgHaCC6OjF3ivA) extraction code: xm1m 
 
  * **Input**: RGB image of size 1920 x 1080 pixels.
- * **Output**: Keypoints for a maximum of 4 rows (core areasleft-most row, left row, right lane, and right-most lane).
+ * **Output**: Keypoints for a maximum of 4 rows (core areas: left-most row, left row, right lane, and right-most lane).
  
 # Examples
 
