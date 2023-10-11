@@ -1,5 +1,5 @@
 # Crop rows Detection Inference Pytorch
-Example of an image using the [RASC models](https://github.com/) in Pytorch to detect a corn crop row (adaptive extraction of the core region).
+Example of an image using the [RCASC models](https://github.com/) in Pytorch to detect a corn crop row (adaptive extraction of the core region).
 
 ![!crop rows](https://github.com/xiapming123/RCASC/blob/main/roadmap.png)
 image-Source: RASC/doc
