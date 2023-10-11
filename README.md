@@ -38,7 +38,7 @@ Download the pretrained model from the [Baidu Netdisk](https://pan.baidu.com/s/1
   * **Video inference**:
  
  ```
- python videoLaneDetection.py
+ python videoDetection.py
  ```
  
  # [Inference video Example](https://pan.baidu.com/s/1yrRWAZCg32CGp2oNKnScKw?pwd=ey57) 
