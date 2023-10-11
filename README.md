@@ -1,7 +1,7 @@
 # Crop rows Detection Inference Pytorch
 Example scripts for the detection of rowss using the [RASC models](https://github.com/) in Pytorch.
 
-![!Ultra fast lane detection](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-/blob/main/doc/img/.jpg)
+![!crop rows](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-/blob/main/doc/img/.jpg)
 image-Source: RASC/doc
 
 # Requirements
@@ -18,9 +18,6 @@ pip install -r requirements
 # Pretrained model
 Download the pretrained model from the [Baidu Netdisk](https://pan.baidu.com/s/1PaIxvx_twgHaCC6OjF3ivA) extraction code: xm1m 
 
-
-# Ultra fast lane detection - TuSimple([link](https://github.com/cfzd/Ultra-Fast-Lane-Detection))
-
  * **Input**: RGB image of size 1920 x 1080 pixels.
  * **Output**: Keypoints for a maximum of 4 rows (core areasleft-most row, left row, right lane, and right-most lane).
  
@@ -29,13 +26,13 @@ Download the pretrained model from the [Baidu Netdisk](https://pan.baidu.com/s/1
  * **Image inference**:
  
  ```
- python imageLaneDetection.py 
+ python imageDetection.py 
  ```
  
   * **Webcam inference**:
  
  ```
- python webcamLaneDetection.py
+ python webcamDetection.py
  ```
  
   * **Video inference**:
