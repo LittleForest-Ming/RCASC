@@ -1,28 +1,28 @@
-# Ultrafast Lane Detection Inference Pytorch
-Example scripts for the detection of lanes using the [ultra fast lane detection model](https://github.com/cfzd/Ultra-Fast-Lane-Detection) in Pytorch.
+# Crop rows Detection Inference Pytorch
+Example scripts for the detection of rowss using the [RASC models](https://github.com/) in Pytorch.
 
 ![!Ultra fast lane detection](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-/blob/main/doc/img/detected%20lanes.jpg)
-Source: https://www.flickr.com/photos/32413914@N00/1475776461/
+image-Source: RASC/doc
 
 # Requirements
 
- * **OpenCV**, **Scikit-learn** and **pytorch**. **pafy** and **youtube-dl** are required for youtube video inference. 
+ * **OpenCV**, **Scikit-learn** and **pytorch**. 
  
 # Installation
 ```
 pip install -r requirements
-pip install pafy youtube-dl
 
 ```
 **Pytorch:** Check the [Pytorch website](https://pytorch.org/) to find the best method to install Pytorch in your computer.
 
 # Pretrained model
-Download the pretrained model from the [original repository](https://github.com/cfzd/Ultra-Fast-Lane-Detection) and save it into the **[models](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-/tree/main/models)** folder. 
+Download the pretrained model from the [Baidu Netdisk](https://pan.baidu.com/s/1PaIxvx_twgHaCC6OjF3ivA) extraction code: xm1m 
+
 
 # Ultra fast lane detection - TuSimple([link](https://github.com/cfzd/Ultra-Fast-Lane-Detection))
 
- * **Input**: RGB image of size 1280 x 720 pixels.
- * **Output**: Keypoints for a maximum of 4 lanes (left-most lane, left lane, right lane, and right-most lane).
+ * **Input**: RGB image of size 1920 x 1080 pixels.
+ * **Output**: Keypoints for a maximum of 4 rows (core areasleft-most row, left row, right lane, and right-most lane).
  
 # Examples
 
