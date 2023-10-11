@@ -2,7 +2,7 @@
 Example of an image using the [RCASC models](https://github.com/) in Pytorch to detect a corn crop row (adaptive extraction of the core region).
 
 ![!crop rows](https://github.com/xiapming123/RCASC/blob/main/roadmap.png)
-image-Source: RASC/doc
+image-Source: RASC/doc. 
 For ease of use, we have expanded the row-anchor version of the corn crop row detection code and are constantly improving it.
 
 # Requirements
