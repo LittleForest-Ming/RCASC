@@ -7,7 +7,7 @@ For ease of use, we have expanded the row-anchor version of the corn crop row de
 
 # Requirements
 
- * **OpenCV**, **Scikit-learn** and **pytorch**. 
+ * **OpenCV**, **Scikit-learn** and **pytorch**, etc. 
  
 # Installation
 ```
