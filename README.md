@@ -42,7 +42,7 @@ Download the pretrained model from the [Baidu Netdisk](https://pan.baidu.com/s/1
  ```
  
  # [Inference video Example](https://pan.baidu.com/s/1yrRWAZCg32CGp2oNKnScKw?pwd=ey57) 
- ![!Crop rows detection on video](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-/blob/main/doc/img/laneDetection.gif)
+ ![!Crop rows detection on video](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-/blob/main/doc/img/ction.gif)
  
  Original video: https://pan.baidu.com/s/1yrRWAZCg32CGp2oNKnScKw?pwd=ey57 -- (by Zhiming Guo)
  
