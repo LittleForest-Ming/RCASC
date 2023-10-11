@@ -42,7 +42,7 @@ Download the pretrained model from the [Baidu Netdisk](https://pan.baidu.com/s/1
  ```
  
  # [Inference video Example](https://pan.baidu.com/s/1yrRWAZCg32CGp2oNKnScKw?pwd=ey57) 
- ![!Crop rows detection on video](https://github.com/xiapming123/RCASC/blob/main/Video-Results/DB.mp4)
+ ![!Crop rows detection on video](https://github.com/xiapming123/RCASC/blob/main/Video-Results/1%20-middle-original.gif)
  
  Original video: https://pan.baidu.com/s/1yrRWAZCg32CGp2oNKnScKw?pwd=ey57 -- (by Zhiming Guo)
  
