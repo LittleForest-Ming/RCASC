@@ -17,7 +17,7 @@ pip install -r requirements
 **Pytorch:** Check the [Pytorch website](https://pytorch.org/) to find the best method to install Pytorch in your computer.
 
 # Pretrained model
-Download the pretrained model from the [Baidu Netdisk](https://pan.baidu.com/s/1PaIxvx_twgHaCC6OjF3ivA) .extraction code: xm1m 
+Download the pretrained model from the [Baidu Netdisk](https://pan.baidu.com/s/10-VS4ed91h8W0TLynCnVOQ?pwd=klno) .extraction code: klno 
 
  * **Input**: RGB image of size 1920 x 1080 pixels.
  * **Output**: Keypoints for a maximum of 4 rows (core areas: left-most row, left row, right row, and right-most row).
