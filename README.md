@@ -17,7 +17,7 @@ pip install -r requirements
 **Pytorch:** Check the [Pytorch website](https://pytorch.org/) to find the best method to install Pytorch in your computer.
 
 # Pretrained model
-Download the pretrained model from the [Baidu Netdisk](https://pan.baidu.com/s/10-VS4ed91h8W0TLynCnVOQ?pwd=klno) .extraction code: klno 
+Download the pretrained model from the [Baidu Netdisk](https://pan.baidu.com/s/1mOUzYN5iamoHsM1JI0vExg?pwd=cizc) .extraction code: cizc 
 
  * **Input**: RGB image of size 1920 x 1080 pixels.
  * **Output**: Keypoints for a maximum of 4 rows (core areas: left-most row, left row, right row, and right-most row).
@@ -45,5 +45,5 @@ Download the pretrained model from the [Baidu Netdisk](https://pan.baidu.com/s/1
  # [Inference video Example](https://pan.baidu.com/s/1yrRWAZCg32CGp2oNKnScKw?pwd=ey57) 
  ![!Crop rows detection on video](https://github.com/xiapming123/RCASC/blob/main/Video-Results/1%20-middle-original.gif)
  
- Original video: https://pan.baidu.com/s/1yrRWAZCg32CGp2oNKnScKw?pwd=ey57 -- (by Zhiming Guo)
+ Original video: 链接：https://pan.baidu.com/s/1urASsIbXEO2J52zyjSL0PQ?pwd=kqrr  -- (by Zhiming Guo)
  
