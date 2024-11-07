@@ -17,7 +17,7 @@ pip install -r requirements
 **Pytorch:** Check the [Pytorch website](https://pytorch.org/) to find the best method to install Pytorch in your computer.
 
 # Pretrained model
-Download the pretrained model from the [Baidu Netdisk](https://pan.baidu.com/s/1mOUzYN5iamoHsM1JI0vExg?pwd=cizc) .extraction code: cizc 
+Download the pretrained model from the [Netdisk](https://pan.baidu.com/s/1mOUzYN5iamoHsM1JI0vExg?pwd=cizc) .or Considering that the software is not general-purpose and is slow, contact (quanlongzhe@163.com) the corresponding author for direct mail transfer. 
 
  * **Input**: RGB image of size 1920 x 1080 pixels.
  * **Output**: Keypoints for a maximum of 4 rows (core areas: left-most row, left row, right row, and right-most row).
